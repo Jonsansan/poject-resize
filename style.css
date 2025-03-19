@@ -35,3 +35,8 @@ body {
     align-items: center;
   }
 }
+.img-fluid {
+  min-height: 100%;
+  min-width: 100%;
+  flex-shrink: 0;
+}
